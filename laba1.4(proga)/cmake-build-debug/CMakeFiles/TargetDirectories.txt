@@ -1,0 +1,3 @@
+C:/Users/rusta/OneDrive/Рабочий стол/уник/2 sem/proga/1 lab/laba1.4(proga)/cmake-build-debug/CMakeFiles/laba1_4_proga_.dir
+C:/Users/rusta/OneDrive/Рабочий стол/уник/2 sem/proga/1 lab/laba1.4(proga)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rusta/OneDrive/Рабочий стол/уник/2 sem/proga/1 lab/laba1.4(proga)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
